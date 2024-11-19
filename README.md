@@ -1,6 +1,4 @@
-Here’s the updated README for your **Dynamic Form Generator** project with proper formatting and enhanced clarity:
 
----
 
 # 🌟 Dynamic Form Generator
 
@@ -132,11 +130,6 @@ Live at: [json-to-for-generator.vercel.app](https://json-to-for-generator.vercel
 
 ---
 
-## 🛠 Deployment History
-
-Deployed **6 times** on **Vercel**, including **Production** deployment 11 hours ago.
-
----
 
 ## 📝 Languages
 
@@ -146,6 +139,4 @@ Deployed **6 times** on **Vercel**, including **Production** deployment 11 hours
 
 ---
 
-## 🖱️ Footer
 
-For questions or feedback, please open an issue in the repository. 😊
